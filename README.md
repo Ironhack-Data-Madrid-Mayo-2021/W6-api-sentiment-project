@@ -24,7 +24,7 @@ Remember, YOU (your API) are the server, and clients send GET or POST requests t
 - (L1🧐) Write an API using flask to receive chat messages and **store** them in a database like mongodb or mysql.
 - (L2🥳) **Read** and serve data from the chats database using different endpoints.
 - (L3🤭) Extract the **emotional value** of messages per user/chats and make it _queryable_ through an endpoit.
-- (L4🔥) Do it real, use slack API to get messages and analyze the messages of our `datamad1020` channel.
+- (L4🔥) Do it real, use slack API to get messages and analyze the messages of our `data-bootcamp` channel.
   - `https://api.slack.com/`
 
 ## Example's - API Endpoints 
